@@ -1,0 +1,20 @@
+# Data preprocessing and Supervised Learning
+
+**Objectives**
+
+- Practice cleaning and preprocessing financial data (historical fund prices).
+- Extract quantitative characteristics of the assets and understand their financial meaning.
+
+**Structure**
+
+- Data cleaning and preprocessing: Load the historical fund price dataset, identify missing or anomalous data, and apply cleaning techniques.
+- Feature engineering: Compute quantitative variables and prepare the feature matrix for clustering.
+
+**Financial Thesis**
+
+As portfolio managers, we believe the Asian market will perform well next year; therefore, we aim to position our fund of funds with a clear bias toward this market.
+
+**Dataset**
+
+- Net Asset Values (NAVs) of 25,000 investment funds between 2016-01-05 and 2021-07-16 provided by IronIA.
+- Fama & French factors (Mkt-RF, SMB, HML, MOM) for Asia Pacific ex Japan.
